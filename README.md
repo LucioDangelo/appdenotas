@@ -1,1 +1,1 @@
-# appdenotas
+Práctica Integradora: App De Notas. Full Stack Web Development. Digital House.
